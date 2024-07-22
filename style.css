@@ -1,0 +1,47 @@
+body {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: #c3ddf7;
+}
+
+.container {
+    max-width: 700px;
+    height: 400px;
+}
+
+h1 {
+    text-align: center;
+    background-color: #196ec4;
+    color:#f8f9fa ;
+    margin-top: 20px;
+    border-radius: 8px;
+
+}
+
+label{
+    margin-top: 40px;
+}
+
+#weatherResult {
+    background-color:  #196ec4;
+    border-radius: 8px;
+    padding: 20px;
+    text-align: left;
+    color:#f8f9fa;
+    height: 300px;
+}
+
+
+
+#submit{
+    width:400px;
+}
+#city{
+    width:400px;   
+}
+
+img{
+    position: relative;
+    left:400px;
+    bottom: 150px;
+    width: 150px;
+}
