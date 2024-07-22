@@ -45,3 +45,15 @@ img{
     bottom: 150px;
     width: 150px;
 }
+
+@media (max-width: 500px) {
+    img {
+      left:250px;
+    }
+}
+
+@media (max-width: 425px) {
+    img {
+      left:180px;
+    }
+}
